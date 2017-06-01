@@ -1,0 +1,26 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Check whether a string contains a unix or natural language date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinlake/Timestamp-Microservice.git"
+  },
+  "keywords": [
+    "Timestamp",
+    "FCC"
+  ],
+  "author": "Robin Lake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinlake/Timestamp-Microservice/issues"
+  },
+  "homepage": "https://github.com/robinlake/Timestamp-Microservice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
